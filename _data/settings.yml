@@ -5,10 +5,10 @@ author:
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'pieces-1'
 
-google-ID: 'UA-80213386-1'
+google-ID: 'UA-105223896-1'
 
 menu:
 # - {name: 'About', url: 'about.html'}
