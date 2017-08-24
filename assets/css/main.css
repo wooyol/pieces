@@ -57,6 +57,12 @@ img {
   border-radius: 5px;
 }
 
+div.post-container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 blockquote {
   border-left: 0.25rem solid #ccc;
   margin: 1.5em 10px;
