@@ -1,0 +1,23 @@
+title:  wooyol
+tagline:  pieces
+author:
+  name: 'wooyol'
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: 'UA-80213386-1'
+
+menu:
+# - {name: 'About', url: 'about.html'}
+# - {name: 'Writing', url: 'writing.html'}
+# - {name: 'Contact', url: 'contact.html'}
+
+social:
+- {icon: 'facebook', link: 'https://www.facebook.com/neolaocoon'}
+- {icon: 'github', link: 'https://www.github.com/lenpaul'}
+# - {icon: 'envelope', link: 'mailto:animate.em.all@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
