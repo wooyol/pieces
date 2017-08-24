@@ -37,12 +37,9 @@ a {
   color: #333;
 }
 
-p.content-text {
-  font-family: 'Arita-buri', 'Sans-serif';
-}
-
 div.post-container p {
   font-family: 'Arita-buri', 'Sans-serif';
+  font-size: 1.2rem;
 }
 
 p.content-text a {
