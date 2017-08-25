@@ -11,7 +11,11 @@
               <a href="{{ site.github.url }}{{ mypost.url }}">
                 <!-- {{ mypost.title }} -->
                 <div class="thumb-box">
-                  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image.teaser }}" class="thumb" alt="words">
+                  {% if mypost.image.teaser %}
+                  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image.teaser }}" class="thumb">
+                  {% else %}
+                  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/words.png" class="thumb">
+                  {% endif %}
                   <small>{{ mypost.date | date: "%B %-d, %Y" }}</small>
                 </div>
               </a>
