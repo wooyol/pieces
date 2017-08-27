@@ -190,7 +190,7 @@ div.thumb-box {
   vertical-align: middle;
 }
 
-#disqus_thread{
+/*#disqus_thread{
      position: relative;
 }
 #disqus_thread:after{
@@ -201,7 +201,7 @@ div.thumb-box {
      position: absolute;
      bottom: 0px;
      background:white;
-}
+}*/
 
 /*
   Pagination

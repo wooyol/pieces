@@ -5,7 +5,7 @@ author:
 
 # Change to true for Disqus comments
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: 'pieces-1'
 
 google-ID: 'UA-105223896-1'
