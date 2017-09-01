@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pieces
+title: List
 ---
 <ul class="posts">
   {% for post in site.posts %}

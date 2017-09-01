@@ -12,7 +12,7 @@ disqus:
 google-ID: 'UA-105223896-1'
 
 menu:
-- {name: 'pieces', uri: 'pieces.html'}
+# - {name: 'list', uri: 'list.html'}
 
 social:
 - {icon: 'facebook', link: 'https://www.facebook.com/neolaocoon'}
