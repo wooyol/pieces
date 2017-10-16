@@ -1,6 +1,6 @@
 # Site Settings
 
-paginate:            5
+paginate:            15
 
 # Build settings
 markdown:            kramdown
